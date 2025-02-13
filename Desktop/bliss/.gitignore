@@ -1,0 +1,47 @@
+# Arquivos de ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribuição/empacotamento
+dist/
+build/
+*.egg-info/
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Arquivos de log
+*.log
+
+# Arquivos de cobertura de testes
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Arquivos temporários
+*.tmp
+*.bak
+
+# Arquivos específicos da AWS
+.aws/
+*.pem
+
+# Arquivos de dependências locais
+node_modules/
+
+#
